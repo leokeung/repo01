@@ -13,6 +13,4 @@
 // git add.
 `git commit -m "message"`
 `git push origin main`
-
-Test update file
-Test update file 2
+`git pull origin main`
