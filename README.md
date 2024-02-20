@@ -17,3 +17,4 @@
 
 //config
 steak
+apple
