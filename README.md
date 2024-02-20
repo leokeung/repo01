@@ -10,7 +10,10 @@
 `git config user.name`
 `git config user.email`
 `git add`
-// git add.
+// git add .
 `git commit -m "message"`
 `git push origin main`
 `git pull origin main`
+
+//config
+steak
