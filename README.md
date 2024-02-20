@@ -15,11 +15,6 @@
 `git push origin main`
 `git pull origin main`
 
+`git branch`
+` git checkout``git checkout main``git checkout -b hello `
 //config
-steak
-lemon
-<<<<<<< HEAD
-apple
-=======
-orange
->>>>>>> 16e2dc04e3329f30718eba582e9ca4bbf0536197
