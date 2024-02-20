@@ -17,9 +17,3 @@
 
 //config
 steak
-lemon
-<<<<<<< HEAD
-apple
-=======
-orange
->>>>>>> 16e2dc04e3329f30718eba582e9ca4bbf0536197
